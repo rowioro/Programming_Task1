@@ -1,0 +1,16 @@
+Ala 6
+Rob 1
+Karl 1
+Paul 5
+Klara 3
+Ewa 1
+Ron 1
+Alf 5
+Pina 3.5
+Udo 2
+Frank 3
+Ida 6
+Kurt 0
+Wiola 3
+Fido 1
+Tom 5
